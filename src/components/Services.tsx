@@ -16,7 +16,7 @@ const Services = () => {
   const services = [
     {
       title: "Microsoft Account",
-      description: "Premium Microsoft account with Office 365 access",
+      description: "Normal microsoft account.",
       price: "5 Invites",
       icon: Shield,
       features: ["Can use as alt or backup", "Fast response", "Office 365 included"],
@@ -25,7 +25,7 @@ const Services = () => {
     },
     {
       title: "Roblox Account",
-      description: "Premium Roblox account with exclusive items",
+      description: "idk",
       price: "3 Invites", 
       icon: Gamepad2,
       features: ["Normal account, can use for alts", "Ready to use", "Secure delivery"],
@@ -34,7 +34,7 @@ const Services = () => {
     },
     {
       title: "TikTok Account",
-      description: "Verified TikTok account with premium features",
+      description: "Normal tiktok account",
       price: "5 Invites",
       icon: Video,
       features: ["TikTok account for alts", "Clean history", "Instant access"],
