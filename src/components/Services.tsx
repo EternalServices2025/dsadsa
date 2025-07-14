@@ -17,7 +17,7 @@ const Services = () => {
     {
       title: "Microsoft Account",
       description: "Normal microsoft account.",
-      price: "5 Invites",
+      price: "7 Invites",
       icon: Shield,
       features: ["Can use as alt or backup", "Fast response", "Office 365 included"],
       popular: true,
